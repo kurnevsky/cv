@@ -1,0 +1,58 @@
+\usepackage{charter,color,calc,hyperref,titlesec}
+\usepackage[empty]{fullpage}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+\addtolength{\oddsidemargin}{-0.25in}
+\addtolength{\evensidemargin}{-0.25in}
+\addtolength{\textwidth}{0.5in}
+\addtolength{\topmargin}{-0.4in}
+\addtolength{\textheight}{1in}
+
+\definecolor{my-gray}{gray}{0.90}
+\definecolor{url-gray}{gray}{0.25}
+
+%% Document header
+\newcommand{\cvheader}[3]{
+  \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+    \textbf{\LARGE #1} & \href{mailto:#2}{#2} \\
+    & #3 \\
+  \end{tabular*}
+}
+
+%% Enumerations
+\def\labelitemi{--}
+
+%% Section Headings, etc.
+\renewcommand{\section}[1]{
+  \@startsection{section}{1}{0pt}{0pt}{0pt}{\normalfont}*{}
+  {
+    \large \colorbox{my-gray}{
+      \begin{minipage}
+        {\textwidth-0.175in}
+        {\textbf{#1 \vphantom{p\^{E}}}}
+      \end{minipage}
+    }
+  }
+}
+
+\titleformat{\subsection} %command
+            [block] %shape
+            {\bfseries} %format
+            {} %label
+            {0pt} %sep
+            {} %before-code
+            [] %after-code
+
+\titlespacing{\subsection}{0pt}{5pt}{0pt}[{0pt}]
+
+\titleformat{\subsubsection} %command
+            [block] %shape
+            {\vspace{-2.4ex}\small\it\raggedleft} %format
+            {} %label
+            {0pt} %sep
+            {} %before-code
+            [] %after-code
+
+\titlespacing{\subsubsection}{0pt}{0pt}{0pt}[{0pt}]

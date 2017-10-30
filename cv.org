@@ -1,0 +1,67 @@
+#+OPTIONS: toc:nil H:10 tex:t
+#+STARTUP: hidestars indent
+#+INCLUDE: me.org
+#+LaTeX_CLASS_OPTIONS: [a4paper]
+#+LaTeX_HEADER: \usepackage{cv}
+#+LaTeX_HEADER: \hypersetup{colorlinks=true, urlcolor={url-gray}}
+#+LaTeX_HEADER: \usepackage{enumitem}
+#+LaTeX_HEADER: \setlist{leftmargin=0.25in,nosep}
+
+{{{HEADER}}}
+
+* Experience
+** Senior Software Developer at [[https://adform.com][Adform]]
+*** Mar 2016 - Present
+Working on Automated Guaranteed - adverising project that connects multiple
+adservers to one unified marketplace. Arsenal: Scala, MongoDB, RabbitMQ,
+Ansible, NGINX.
+** Software Developer at [[http://www.skywind-tech.by][Viaden Media]]
+*** Feb 2015 - Feb 2016
+Worked on several data collection and analisys project including CRM system,
+data warehouse. Arsenal: Hadoop, Kafka, Camus, Spark, Elasticsearch.
+** Software Developer at [[http://intechcore.com][Intechcore]]
+*** Feb 2012 - Jan 2015
+Worked on [[http://scell.org][Scell]] - spreadheet app, analogue of Microsoft Excel. It's written in
+Scala and Java with usage of JavaFX for graphical interface. I've implemented
+modules for formulas calculating, loading/saving the xlsx file format,
+undo/redo.
+** Junior Software Developer at [[http://www.tulaco.by][TulaCo]]
+*** Aug 2011 - Jan 2012
+Worked on [[http://cement.by][cement.by]] - online shop for selling building material. It's written in
+C# with usage of ASP.NET MVC, Spring.NET, Fluent NHibernate, jQuery. I was
+writting business logic for backend and frontend parts.
+
+* Projects
+I contribute to a number of FOSS projects in varying degrees. [[https://github.com/kurnevsky][GitHub]] provides a
+fairly comprehensive overview.
+** [[https://github.com/kurnevsky/opai-rs][OPAI]]
+*** Rust
+Artificial intelligence for the game of Points. It uses various techniques
+of game theory and computer science. Originally it was written in C++ but
+then completely rewritten in Rust.
+** [[https://github.com/kurnevsky/missile][Missile]]
+*** Haskell
+Graphical interface for OPAI. It uses GTK for graphical interface and Cairo for
+the game field rendering.
+** [[https://github.com/kurnevsky/rusty-ant][Rusty ant]]
+*** Rust
+Artificial Intelligence for Google AI Challenge. It's rewritten and improved
+version of the AI that participated in contest and took [[https://web.archive.org/web/20120204161440/http://ants.aichallenge.org/rankings.php][29th place]].
+** [[https://github.com/zetok/tox][zetox]]
+*** Rust
+Implementation of [[https://github.com/TokTok/c-toxcore][toxcore]] in Rust. I've rewritten parsing functionality to [[https://github.com/Geal/nom][nom]]
+parser combinators.
+
+* Education
+** BSUIR, Minsk
+*** Sep 2009 - Jun 2014
+Department of Computer Science, Diploma with Distinction.
+** Republican Olympiad in Informatics
+*** Mar 2009
+Diploma of the second degree.
+
+* Skills
+- Most comfortable with :: Scala, Akka, scalaz/cats, Rust, Haskell, MongoDB,
+     Ansible, Git, Linux
+- Have worked with :: Java, R, Octave, C++, C#, sh, sql, Spark, Elasticsearch,
+     Docker

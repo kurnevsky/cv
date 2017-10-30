@@ -1,0 +1,8 @@
+#+MACRO: FIRST Evgeny
+#+MACRO: LAST  Kurnevsky
+#+MACRO: FULL  {{{FIRST}}} {{{LAST}}}
+#+MACRO: EMAIL kurnevsky@gmail.com
+#+MACRO: PHONE +375 29 177 12 27
+#+MACRO: CODE  https://github.com/kurnevsky
+
+#+MACRO: HEADER \cvheader{ {{{FULL}}} }{ {{{EMAIL}}} }{ {{{PHONE}}} }
