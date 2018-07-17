@@ -43,6 +43,11 @@ writting business logic for backend and frontend parts.
 * Projects
 I contribute to a number of FOSS projects in varying degrees. [[https://github.com/kurnevsky][GitHub]] provides a
 fairly comprehensive overview.
+** [[https://github.com/tox-rs/tox][tox-rs]]
+*** Rust
+Implementation of [[https://github.com/TokTok/c-toxcore][toxcore]] in Rust - P2P, distributed, encrypted, easy to use
+DHT-based network. While working on this project I have found and fixed a
+[[https://blog.tox.chat/2018/04/security-vulnerability-and-new-toxcore-release][vulnerability]] in the original toxcore.
 ** [[https://github.com/kurnevsky/opai-rs][OPAI]]
 *** Rust
 Artificial intelligence for the game of Points. It uses various techniques
@@ -56,11 +61,6 @@ the game field rendering.
 *** Rust
 Artificial Intelligence for Google AI Challenge. It's rewritten and improved
 version of the AI that participated in contest and took [[https://web.archive.org/web/20120204161440/http://ants.aichallenge.org/rankings.php][29th place]].
-** [[https://github.com/tox-rs/tox][tox-rs]]
-*** Rust
-Implementation of [[https://github.com/TokTok/c-toxcore][toxcore]] in Rust - P2P, distributed, encrypted, easy to use
-DHT-based network. While working on this project I have found and fixed a
-[[https://blog.tox.chat/2018/04/security-vulnerability-and-new-toxcore-release][vulnerability]] in the original toxcore.
 
 * Education
 ** BSUIR, Minsk
