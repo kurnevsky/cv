@@ -60,7 +60,8 @@ the game field rendering.
 ** [[https://github.com/kurnevsky/rusty-ant][Rusty ant]]
 *** Rust
 Artificial Intelligence for Google AI Challenge. It's rewritten and improved
-version of the AI that participated in contest and took [[https://web.archive.org/web/20120204161440/http://ants.aichallenge.org/rankings.php][29th place]].
+version of the AI that participated in the contest and took the [[https://web.archive.org/web/20120204161440/http://ants.aichallenge.org/rankings.php][29th place]] out
+of 7897.
 
 * Education
 ** BSUIR, Minsk
