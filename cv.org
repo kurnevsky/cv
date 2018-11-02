@@ -10,7 +10,7 @@
 {{{HEADER}}}
 
 * Experience
-** Freelance
+** Senior Software Developer at Zerho LLC
 *** Apr 2018 - Present
 Working on tox-rs (see projects).
 ** Senior Software Developer at [[https://synesis.by][Synesis]]
