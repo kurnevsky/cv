@@ -10,60 +10,99 @@
 {{{HEADER}}}
 
 * Experience
+:PROPERTIES:
+:CUSTOM_ID: experience
+:END:
 ** Senior Software Developer at Zerho LLC
+:PROPERTIES:
+:CUSTOM_ID: zerho
+:END:
 *** Apr 2018 - Present
-Working on [[tox-rs][tox-rs]] (see projects).
+Working on [[#tox-rs][tox-rs]] (see projects).
 ** Senior Software Developer at [[https://synesis.by][Synesis]]
+:PROPERTIES:
+:CUSTOM_ID: synesis
+:END:
 *** Jan 2018 - Mar 2018
 Worked on high load video monitoring system. The main responsibility was
 management and configuration of Zookeeper, Kafka and Spark clusters. Arsenal:
 Ansible, Kafka, Spark, Zookeeper, Kubernetes, Telegraf, Grafana, InfluxDB, Java,
 Go.
 ** Senior Software Developer at [[https://adform.com][Adform]]
+:PROPERTIES:
+:CUSTOM_ID: adform
+:END:
 *** Mar 2016 - Dec 2017
 Worked on Automated Guaranteed - advertising project that connects multiple
 AdServers to one unified marketplace. Arsenal: Scala, MongoDB, RabbitMQ,
 Ansible, NGINX.
 ** Software Developer at [[http://www.skywind-tech.by][Viaden Media]]
+:PROPERTIES:
+:CUSTOM_ID: viaden
+:END:
 *** Feb 2015 - Feb 2016
 Worked on several data collection and analisys project including CRM system,
 data warehouse. Arsenal: Hadoop, Kafka, Camus, Spark, Elasticsearch.
 ** Software Developer at [[http://intechcore.com][Intechcore]]
+:PROPERTIES:
+:CUSTOM_ID: intechcore
+:END:
 *** Feb 2012 - Jan 2015
 Worked on [[http://scell.org][Scell]] - spreadheet app, analogue of Microsoft Excel. It's written in
 Scala and Java with usage of JavaFX for graphical interface. I've implemented
 modules for formulas calculating, loading/saving the xlsx file format,
 undo/redo.
 ** Junior Software Developer at [[http://www.tulaco.by][TulaCo]]
+:PROPERTIES:
+:CUSTOM_ID: tulaco
+:END:
 *** Aug 2011 - Jan 2012
 Worked on [[http://cement.by][cement.by]] - online shop for selling building material. It's written in
 C# with usage of ASP.NET MVC, Spring.NET, Fluent NHibernate, jQuery. I was
 writting business logic for backend and frontend parts.
 
 * Projects
+:PROPERTIES:
+:CUSTOM_ID: projects
+:END:
 I contribute to a number of FOSS projects in varying degrees. [[https://github.com/kurnevsky][GitHub]] provides a
 fairly comprehensive overview.
-** <<tox-rs>>[[https://github.com/tox-rs/tox][tox-rs]]
+** [[https://github.com/tox-rs/tox][tox-rs]]
+:PROPERTIES:
+:CUSTOM_ID: tox-rs
+:END:
 *** Rust
 Implementation of [[https://github.com/TokTok/c-toxcore][toxcore]] in Rust - P2P, distributed, encrypted, easy to use
 DHT-based network. While working on this project I have found and fixed a
 [[https://blog.tox.chat/2018/04/security-vulnerability-and-new-toxcore-release][vulnerability]] in the original toxcore.
 ** [[https://github.com/kurnevsky/opai-rs][OPAI]]
+:PROPERTIES:
+:CUSTOM_ID: opai
+:END:
 *** Rust
 Artificial intelligence for the game of Points. It uses various techniques
 of game theory and computer science. Originally it was written in C++ but
 then completely rewritten in Rust.
 ** [[https://github.com/kurnevsky/missile][Missile]]
+:PROPERTIES:
+:CUSTOM_ID: missile
+:END:
 *** Haskell
 Graphical interface for OPAI. It uses GTK for graphical interface and Cairo for
 the game field rendering.
 ** [[https://github.com/kurnevsky/rusty-ant][Rusty ant]]
+:PROPERTIES:
+:CUSTOM_ID: rusty-ant
+:END:
 *** Rust
 Artificial Intelligence for Google AI Challenge. It's rewritten and improved
 version of the AI that participated in the contest and took the [[https://web.archive.org/web/20120204161440/http://ants.aichallenge.org/rankings.php][29th place]] out
 of 7897.
 
 * Education
+:PROPERTIES:
+:CUSTOM_ID: education
+:END:
 ** BSUIR, Minsk
 *** Sep 2009 - Jun 2014
 Department of Computer Science, Diploma with Distinction.
@@ -72,6 +111,9 @@ Department of Computer Science, Diploma with Distinction.
 Diploma of the second degree.
 
 * Skills
+:PROPERTIES:
+:CUSTOM_ID: skills
+:END:
 - Most comfortable with :: Scala, Akka, scalaz/cats, Rust, Haskell, MongoDB,
      Ansible, Git, Linux
 - Have worked with :: Java, R, Octave, C++, C#, sh, sql, Spark, Elasticsearch,
