@@ -13,7 +13,7 @@
 :PROPERTIES:
 :CUSTOM_ID: experience
 :END:
-** Senior Software Developer at Zerho LLC
+** Senior Software Developer at [[https://zerho.info][Zerho LLC]]
 :PROPERTIES:
 :CUSTOM_ID: zerho
 :END:
