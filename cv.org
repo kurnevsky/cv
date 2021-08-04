@@ -75,29 +75,13 @@ fairly comprehensive overview.
 Implementation of [[https://github.com/TokTok/c-toxcore][toxcore]] in Rust - P2P, distributed, encrypted, easy to use
 DHT-based network. While working on this project I have found and fixed a
 [[https://blog.tox.chat/2018/04/security-vulnerability-and-new-toxcore-release][vulnerability]] in the original toxcore.
-** [[https://github.com/kurnevsky/opai-rs][OPAI]]
+** [[https://github.com/pointsgame/oppai-rs][OpPAI]]
 :PROPERTIES:
-:CUSTOM_ID: opai
+:CUSTOM_ID: oppai
 :END:
 *** Rust
 Artificial intelligence for the game of Points. It uses various techniques
-of game theory and computer science. Originally it was written in C++ but
-then completely rewritten in Rust.
-** [[https://github.com/kurnevsky/missile][Missile]]
-:PROPERTIES:
-:CUSTOM_ID: missile
-:END:
-*** Haskell
-Graphical interface for OPAI. It uses GTK for graphical interface and Cairo for
-the game field rendering.
-** [[https://github.com/kurnevsky/rusty-ant][Rusty ant]]
-:PROPERTIES:
-:CUSTOM_ID: rusty-ant
-:END:
-*** Rust
-Artificial Intelligence for Google AI Challenge. It's rewritten and improved
-version of the AI that participated in the contest and took the [[https://web.archive.org/web/20120204161440/http://ants.aichallenge.org/rankings.php][29th place]] out
-of 7897.
+of game theory and computer science.
 
 * Education
 :PROPERTIES:
