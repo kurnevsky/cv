@@ -13,12 +13,19 @@
 :PROPERTIES:
 :CUSTOM_ID: experience
 :END:
+** Lead Software Developer at [[https://www.evolution.com][Evolution]]
+:PROPERTIES:
+:CUSTOM_ID: evolution
+:END:
+*** Jun 2019 - Present
+Writing and maintaining games. Arsenal: Scala, Cats, Akka Cluster, Kafka,
+Cassandra.
 ** Senior Software Developer at [[https://zerho.info][Zerho LLC]]
 :PROPERTIES:
 :CUSTOM_ID: zerho
 :END:
-*** Apr 2018 - Present
-Working on [[#tox-rs][tox-rs]] (see projects).
+*** Apr 2018 - Jun 2019
+Worked on [[#tox-rs][tox-rs]] (see projects).
 ** Senior Software Developer at [[https://synesis.by][Synesis]]
 :PROPERTIES:
 :CUSTOM_ID: synesis
